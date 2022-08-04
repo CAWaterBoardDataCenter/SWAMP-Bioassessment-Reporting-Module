@@ -21,7 +21,7 @@ The objectives of this modernized Reporting Module are to enable users to easily
 ## Audience
 The audience for which the Reporting Module is primarily intended includes aquatic bioassessment subject-matter experts and practitioners (i.e., those who regularly use or analyze SWAMP or aquatic bioassessment data in their work). Since the Reporting Module will be open and accessible to the public, documentation and communication resources will be developed to enable new bioassessment data users and practitioners to easily learn how to use the data and resource appropriately.
 
-For more information, please see:
+## Additional Information & Resources
 
 - [SWAMP Bioassessment Monitoring Program Reporting Module Data Management Plan](https://docs.google.com/document/d/1_JNdR-7H7F7in_PqYPiNlQkJFgWgWYvAU1nSbA-d4Sc/edit?usp=sharing)
 - [SWAMP Bioassessment Monitoring Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioassessment/)
