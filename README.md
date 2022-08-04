@@ -21,6 +21,8 @@ The objectives of this modernized Reporting Module are to enable users to easily
 ## Audience
 The audience for which the Reporting Module is primarily intended includes aquatic bioassessment subject-matter experts and practitioners (i.e., those who regularly use or analyze SWAMP or aquatic bioassessment data in their work). Since the Reporting Module will be open and accessible to the public, documentation and communication resources will be developed to enable new bioassessment data users and practitioners to easily learn how to use the data and resource appropriately.
 
+There may be a need for some bioassessment data practitioners to use the Reporting Module workflow to process non-public bioassessment data or to develop other aggregations or metrics that are outside of the scope of the Reporting Module. SWAMP will make all workflows and code available through this GitHub Repository so any bioassessment data user with analytical needs that are outside the scope of the publicly facing Reporting Module will be able to download the Reporting Module’s code and workflows and customize them in a way that satisfies their specific needs. SWAMP will work with select parties who need to connect securely to SWAMP bioassessment data held in State Water Board databases, as necessary and appropriate.
+
 ## Additional Information & Resources
 
 - [SWAMP Bioassessment Monitoring Program Reporting Module Data Management Plan](https://docs.google.com/document/d/1_JNdR-7H7F7in_PqYPiNlQkJFgWgWYvAU1nSbA-d4Sc/edit?usp=sharing)
